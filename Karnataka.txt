@@ -1,0 +1,359 @@
+var Badami = [
+
+
+
+    { "id": "Badami", "parent": "Badami", "text": "Badami", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+    
+    
+    
+    { "id": "Bagalkot", "parent": "Badami", "text": "Bagalkot", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+    
+    
+    
+    { "id": "Bilgi", "parent": "Badami", "text": "Bilgi", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+    
+    
+    
+    { "id": "Ilkal", "parent": "Badami", "text": "Ilkal", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+    
+    
+    
+    { "id": "Hunagunda", "parent": "Badami", "text": "Hunagunda", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+    
+    
+    
+    { "id": "Terdal", "parent": "Badami", "text": "Terdal", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+    
+    
+    
+    { "id": "Guledgudda", "parent": "Badami", "text": "Guledgudda", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+    
+    
+    
+    { "id": "Jamkhandi", "parent": "Badami", "text": "Jamkhandi", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+    
+    
+    
+    { "id": "Mudhol", "parent": "Badami", "text": "Mudhol", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+    
+    
+    
+  
+    
+    
+    
+    ];
+    --------------------------------------------------------------------------------------------
+
+    var Bangalore Urban = [
+
+
+
+        { "id": "Anekal", "parent": "Bangalore Urban", "text": "Anekal", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+        
+        
+        
+        { "id": "Yelahanka", "parent": "Bangalore Urban", "text": "Yelahanka", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+        
+        
+        
+        { "id": "Bangalore North", "parent": "Bangalore Urban", "text": "Bangalore North", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+        
+        
+        
+        { "id": "Bangalore East", "parent": "Bangalore Urban", "text": "Bangalore East", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+        
+        
+        
+        { "id": "Bangalore South", "parent": "Bangalore Urban", "text": "Bangalore South", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+        
+        
+        ];
+        --------------------------------------------------------------------------------------------
+
+        var Bangalore Rural = [
+
+
+
+            { "id": "Devanahalli", "parent": "Bangalore Rural", "text": "Devanahalli", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+            
+            
+            
+            { "id": "Doddaballapura", "parent": "Bangalore Rural", "text": "Doddaballapura", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+            
+            
+            
+            { "id": "Hosakote", "parent": "Bangalore Rural", "text": "Hosakote", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+            
+            
+            
+            { "id": "Nelamangala", "parent": "Bangalore Rural", "text": "Nelamangala", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+            
+            
+            
+            
+            
+            ];
+            --------------------------------------------------------------------------------------------
+    
+            var Belagavi = [
+
+
+
+                { "id": "Athni", "parent": "Belagavi", "text": "Athni", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                
+                
+                
+                { "id": "Bailhongal", "parent": "Belagavi", "text": "Bailhongal", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                
+                
+                
+                { "id": "Belgaum", "parent": "Belagavi", "text": "Belgaum", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                
+                
+                
+                { "id": "Chikodi", "parent": "Belagavi", "text": "Chikodi", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+
+
+                { "id": "Gokak", "parent": "Belagavi", "text": "Gokak", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                
+                
+                
+                { "id": "Hukkeri", "parent": "Belagavi", "text": "Hukkeri", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                
+                
+                
+                { "id": "Khanapur", "parent": "Belagavi", "text": "Khanapur", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                
+                
+                
+                { "id": "Kagawad", "parent": "Belagavi", "text": "Kagawad", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                
+                { "id": "Mudalagi", "parent": "Belagavi", "text": "Mudalagi", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                
+                
+                
+                { "id": "Nippani", "parent": "Belagavi", "text": "Nippani", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                
+                
+                
+                { "id": "Kittur", "parent": "Belagavi", "text": "Kittur", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                
+                
+                
+                { "id": "Raybag", "parent": "Belagavi", "text": "Raybag", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                
+
+                { "id": "Ramdurg", "parent": "Belagavi", "text": "Ramdurg", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                
+                
+                
+                { "id": "Saundatti", "parent": "Belagavi", "text": "Saundatti", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                
+                
+                
+                { "id": "Yaragatti", "parent": "Belagavi", "text": "Yaragatti", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                
+                
+                
+                
+                
+                
+                
+                ];
+                --------------------------------------------------------------------------------------------
+                var Bellary= [
+
+
+
+                    { "id": "Bellari", "parent": "Bellary", "text": "Bellari", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                    
+                    
+                    
+                    { "id": "Kampli", "parent": "Bellary", "text": "Kampli", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                    
+                    
+                    
+                    { "id": "Kurugodu", "parent": "Bellary", "text": "Kurugodu", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                    
+                    
+                    
+                    { "id": "Sanduru", "parent": "Bellary", "text": "Sanduru", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                   
+                    
+                    { "id": "Siruguppa", "parent": "Bellary", "text": "Siruguppa", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+
+                    
+                    
+                    
+                    ];
+                    --------------------------------------------------------------------------------------------
+
+                    var Bidar= [
+
+
+
+                        { "id": "Bidar", "parent": "Bidar", "text": "Bidar", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                        
+                        
+                        
+                        { "id": "Basavakalyan", "parent": "Bidar", "text": "Basavakalyan", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                        
+                        
+                        
+                        { "id": "Kamalnagar", "parent": "Bidar", "text": "Kamalnagar", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                        
+                        
+                        
+                        { "id": "Hulasuru", "parent": "Bidar", "text": "Hulasuru", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                       
+                        
+                        { "id": "Chitgoppa", "parent": "Bidar", "text": "Chitgoppa", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+
+
+                        { "id": "Bhalki", "parent": "Bidar", "text": "Bhalki", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                        
+                        
+                        
+                        { "id": "Homnabad", "parent": "Bidar", "text": "Homnabad", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                       
+                        
+                        { "id": "Aurad", "parent": "Bidar", "text": "Aurad", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+    
+                        
+                        
+                        
+                        ];
+                        --------------------------------------------------------------------------------------------
+
+                        var Vijayapura= [
+
+
+
+                            { "id": "Vijayapura", "parent": "Vijayapura", "text": "Vijayapura", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                            
+                            
+                            
+                            { "id": "Indi", "parent": "Vijayapura", "text": "Indi", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                            
+                            
+                            
+                            { "id": "Muddebihal", "parent": "Vijayapura", "text": "Muddebihal", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                            
+                            
+                            
+                            { "id": "Babaleshwar", "parent": "Vijayapura", "text": "Babaleshwar", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                           
+                            
+                            { "id": "Nidagundi", "parent": "Vijayapura", "text": "Nidagundi", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+    
+    
+                            { "id": "Tikota", "parent": "Vijayapura", "text": "Tikota", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                            
+                            
+                            
+                            { "id": "Chadchan", "parent": "Vijayapura", "text": "Chadchan", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                           
+                            
+                            { "id": "Kolhar", "parent": "Vijayapura", "text": "Kolhar", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+        
+                            
+                            
+                            
+                            ];
+                            --------------------------------------------------------------------------------------------
+
+                            var Chamarajanagar= [
+
+
+
+                                { "id": "Chamarajanagar", "parent": "Chamarajanagar", "text": "Chamarajanagar", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                
+                                
+                                
+                                { "id": "Gundlupet", "parent": "Chamarajanagar", "text": "Gundlupet", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                
+                                
+                                
+                                { "id": "Kollegal", "parent": "Chamarajanagar", "text": "Kollegal", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                
+                                
+                                
+                                { "id": "Yelandur", "parent": "Chamarajanagar", "text": "Yelandur", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                               
+                             
+                                
+                                
+                                ];
+                                --------------------------------------------------------------------------------------------
+
+                                var Chikballapur= [
+
+
+
+                                    { "id": "Bagepalli", "parent": "Chikballapur", "text": "Bagepalli", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                    
+                                    
+                                    
+                                    { "id": "Chikballapur", "parent": "Chikballapur", "text": "Chikballapur", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                    
+                                    
+                                    
+                                    { "id": "Chintamani", "parent": "Chikballapur", "text": "Chintamani", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                    
+                                    
+                                    
+                                    { "id": "Gauribidanur", "parent": "Chikballapur", "text": "Gauribidanur", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                   
+                                 
+                                    { "id": "Gudibanda", "parent": "Chikballapur", "text": "Gudibanda", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                    
+                                    
+                                    
+                                    { "id": "Sidlaghatta", "parent": "Chikballapur", "text": "Sidlaghatta", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                   
+                                 
+                                    
+                                    
+                                    ];
+                                    --------------------------------------------------------------------------------------------
+
+                                    var Chikmagalur= [
+
+
+
+                                        { "id": "Chikmagalur", "parent": "Chikmagalur", "text": "Chikmagalur", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                        
+                                        
+                                        
+                                        { "id": "Kadur", "parent": "Chikmagalur", "text": "Kadur", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                        
+                                        
+                                        
+                                        { "id": "Koppa", "parent": "Chikmagalur", "text": "Koppa", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                        
+                                        
+                                        
+                                        { "id": "Mudigere", "parent": "Chikmagalur", "text": "Mudigere", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                       
+                                     
+                                        { "id": "Kalasa", "parent": "Chikmagalur", "text": "Kalasa", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                        
+                                        
+                                        
+                                        { "id": "Narasimharajapura", "parent": "Chikmagalur", "text": "Narasimharajapura", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                       
+
+                                        { "id": "Sringeri", "parent": "Chikmagalur", "text": "Sringeri", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                       
+                                     
+                                        { "id": "Ajjampura", "parent": "Chikmagalur", "text": "Ajjampura", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                        
+                                        
+                                        
+                                        { "id": "Tarikere", "parent": "Chikmagalur", "text": "Tarikere", icon: 'glyphicon glyphicon-folder-open', "a_attr": { type: 'folder' } },
+                                       
+                                        
+                                        
+                                        ];
+                                        --------------------------------------------------------------------------------------------
